@@ -1,0 +1,23 @@
+html tags:
+
+link
+script
+nav
+button
+img
+a
+ul
+li
+footer
+section
+
+css prop:
+
+width
+color
+transition 
+padding
+margin
+
+JS & Bootstrap:
+i used bootstrap for most of the design, and i used js to hide an easter egg modal from bootstrap in the site.
